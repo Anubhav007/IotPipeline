@@ -1,0 +1,5 @@
+kafka-python
+streamlit
+pandas
+numpy
+cassandra-driver

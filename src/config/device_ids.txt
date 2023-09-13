@@ -1,0 +1,3 @@
+thermostat_1
+heart_rate_meter_1
+fuel_gauge_1
