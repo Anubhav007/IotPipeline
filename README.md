@@ -1,4 +1,4 @@
-# Rela42 IoT Pipeline
+# IoT Pipeline
 
 The purpose of this project is to simulate 3 IoT devices namely - Thermostat, Heart Rate meter and Fuel Gauge, emitting data continuously at every 5 second interval. The project contains a realtime streaming pipeline which processes this data, compute aggregates and stores it on a scalable datastore. Lastly it also exposes a web service to query the aggregated data for a given device_id and timeframe. 
 
